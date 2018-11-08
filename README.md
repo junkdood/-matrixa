@@ -13,25 +13,25 @@ At the last line is the message after replacing consists of alphabets, whose len
 print the message before replacing.
 
 ## Sample Input
-6 
-o y
-y i
-i v
-v e
-e u
-u o
-vlyeuiyo
+6  
+o y  
+y i  
+i v  
+v e  
+e u  
+u o  
+vlyeuiyo  
 ## Sample Output
-iloveyou
+iloveyou  
 ## Explanation
 ### From the sample input, we have:
 
-  o -> y
-  y -> i
-  i -> v
-  v -> e
-  e -> u
-  u -> o
+  o -> y  
+  y -> i  
+  i -> v  
+  v -> e  
+  e -> u  
+  u -> o  
 ### And
 
   vlyeuiyo  

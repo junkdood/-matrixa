@@ -1,13 +1,18 @@
-# 已知公元1年1月1日是星期一，问某年某月某日是星期几？  
+# Description  
+Give you two integers, and calculate their GCD(Greatest Common Divisor) and LCM(Least Common Multiple). If both of them are positive, print the GCD and LCM. If some are invalid(zero or negative), print invalid.  
 
-## Input  
-输入为三个正整数y,m,d，分别代表年、月、日。其中，1≤y≤9999, m和d保证合法。  
+# input  
+First line is the integer t∈[1,100], which indicates how many tests will be performed. Next, in each line of the n lines, there are two intergers ai in [0, 10000] and bi in [0, 10000].  
 
-## Output  
-输出星期几，星期一到星期六分别用1到6表示，星期天用7表示。注意输出最后有一个换行。  
+# output  
+If both of them are positive, print the GCD and LCM. If some are invalid(zero or negative), print invalid.  
 
-## Sample Input  
-2017 9 25  
-
-## Sample Output  
-1  
+# Sample Input  
+2  
+0 10  
+2 10  
+# Sample Output  
+invalid  
+2 10  
+# Hint  
+You may not learn the algorithms of calculating LCM and GCD in your primary school or middle school. So you can serach about them, or read the instruction in wikipedia about Least Common Multiple and Greatest Common Divisor.  

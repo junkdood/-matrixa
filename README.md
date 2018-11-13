@@ -34,7 +34,6 @@ vlyeuiyo
 ### And
 
 >vlyeuiyo  
-^^^^^^^^  
 | | | | | | | |  
 iloveyou  
 ### Hint

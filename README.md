@@ -22,10 +22,9 @@ e u
 u o  
 vlyeuiyo  
 ## Sample Output
-iloveyou  
+>iloveyou  
 ## Explanation
 ### From the sample input, we have:
-
 >  o -> y  
   y -> i  
   i -> v  

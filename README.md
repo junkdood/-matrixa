@@ -12,7 +12,7 @@ If both of them are positive, print the GCD and LCM. If some are invalid(zero or
 0 10  
 2 10  
 # Sample Output  
-invalid  
+>invalid  
 2 10  
 # Hint  
-You may not learn the algorithms of calculating LCM and GCD in your primary school or middle school. So you can serach about them, or read the instruction in wikipedia about Least Common Multiple and Greatest Common Divisor.  
+>You may not learn the algorithms of calculating LCM and GCD in your primary school or middle school. So you can serach about them, or read the instruction in wikipedia about Least Common Multiple and Greatest Common Divisor.  

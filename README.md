@@ -25,16 +25,16 @@ vlyeuiyo
 iloveyou  
 ## Explanation
 ### From the sample input, we have:
->
-  o -> y  
+
+>  o -> y  
   y -> i  
   i -> v  
   v -> e  
   e -> u  
   u -> o  
 ### And
->
-vlyeuiyo  
+
+>vlyeuiyo  
 ^^^^^^^^  
 ||||||||  
 iloveyou  

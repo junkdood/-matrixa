@@ -10,7 +10,7 @@ If both of them are positive, print the GCD and LCM. If some are invalid(zero or
 # Sample Input  
 >2  
 0 10  
-2 10<  
+2 10  
 # Sample Output  
 invalid  
 2 10  

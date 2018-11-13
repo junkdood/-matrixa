@@ -7,8 +7,8 @@ Two num: h,s.
 # Output
 The number of schemes.  
 # Sample Input
-1 3
+>1 3
 # Sample Output
-1
+>1
 # Hint
 利用递归思想解题。

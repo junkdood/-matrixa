@@ -8,9 +8,9 @@ First line is the integer t∈[1,100], which indicates how many tests will be pe
 If both of them are positive, print the GCD and LCM. If some are invalid(zero or negative), print invalid.  
 
 # Sample Input  
-2  
+>2  
 0 10  
-2 10  
+2 10<  
 # Sample Output  
 invalid  
 2 10  

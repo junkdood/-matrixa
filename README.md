@@ -13,7 +13,7 @@ At the last line is the message after replacing consists of alphabets, whose len
 print the message before replacing.
 
 ## Sample Input
-6  
+>6  
 o y  
 y i  
 i v  
@@ -25,7 +25,7 @@ vlyeuiyo
 iloveyou  
 ## Explanation
 ### From the sample input, we have:
-
+>
   o -> y  
   y -> i  
   i -> v  
@@ -33,10 +33,10 @@ iloveyou
   e -> u  
   u -> o  
 ### And
-
-  vlyeuiyo  
-  ^^^^^^^^  
-  ||||||||  
-  iloveyou  
+>
+vlyeuiyo  
+^^^^^^^^  
+||||||||  
+iloveyou  
 ### Hint
-Single Dogs enjoy coding…  
+>Single Dogs enjoy coding…  

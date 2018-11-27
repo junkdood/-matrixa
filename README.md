@@ -1,6 +1,6 @@
 # Description
 A function pointer, also called a subroutine pointer or procedure pointer, is a pointer that points to a function. As opposed to referencing a data value, a function pointer points to executable code within memory.Function pointers can be used to simplify code by providing a simple way to select a function to execute based on run-time values.  
-In this program, you need to finish function PF maxmin(int c) where typedef int (*PF)(int,int). In maxmin function, the program will return max funtion if c == 1, return min function otherwise.  
+In this program, you need to finish function *PF maxmin(int c)* where typedef *int (*PF)(int,int)*. In *maxmin* function, the program will return *max* funtion if c == 1, return *min* function otherwise.  
 # Input
 Two numbers a, b and a control number c.  
 # Output

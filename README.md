@@ -9,10 +9,10 @@ output the maximum in a, b
 if c != 1  
 output the minimum in a, b  
 # Example input
->4 2
-1
+>4 2  
+1  
 # Example output
->4
+>4  
 # Hint
 Function pointer  
-不靠谱博客：C/C++ 函数指针使用总结
+不靠谱博客：C/C++ 函数指针使用总结  

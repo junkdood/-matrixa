@@ -1,3 +1,3 @@
-# -matrixa
-这里存放了我的matrix作业  
->     当然，如果你想帮我改的更好我也是不介意的
+编写一个Catenate函数实现将两个int型数组拼接在一起并以指针形式返回新数组。  
+Catenate函数的原型为int* Catenate(int a[], int b[], int len1, int len2),其中a和b两个需要拼接的数组，len1是a中元素个数，len2是b中元素个数。返回一个int* 型指针，指向一个数组，数组中前部分为a的内容，后部分为b的内容。  
+注意，只需要实现Catenate函数即可，main函数已经写好。详见Main.cpp文件。  
